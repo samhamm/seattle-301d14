@@ -135,7 +135,7 @@ Linter and linter-eslint should be on that list, like in this screen shot:
 4.  While you are here on GitHub, let's fork this repository. Yes, **this** repo you are currently on! Click on the `Fork` button, and on the resulting page copy the URL link of your brand new fork.
 5.  Back in the terminal, make sure you are in the `lecture-repo` folder and `git clone THE-URL-YOU-JUST-COPIED lecture-301` (where `THE-URL-YOU-JUST-COPIED` is the URL of your forked repo you just copied. The last argument ('lecture-301') changes the display name of the repository folder.
 6.  After the cloning completes, `cd` into this repo.
-7.  Type `git remote add upstream https://github.com/codefellows/seattle-301d7.git` to enable quick access to future updates.
+7.  Type `git remote add upstream https://github.com/codefellows/seattle-301d14.git` to enable quick access to future updates.
 7.  Type `git remote -v` to verify that your `origin` remote points to your GitHub account's forked 301 repo, and that your `upstream` remote points to the codefellows account.
 8.  `cd lab-assignments`
 9.  `mkdir my-forked-labs`
