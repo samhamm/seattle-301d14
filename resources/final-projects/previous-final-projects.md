@@ -11,6 +11,10 @@ _[Rep Findr on GitHub](https://github.com/stefuhnee/rep-findr)_
 https://snaptoit.firebaseapp.com/  
 _[SNAP on GitHub](https://github.com/mevans72/code-301-final-project)_
 
+- Restauarant Report Card:
+https://restaurant-report-card.herokuapp.com
+_[Restaurant Report Card on GitHub](https://github.com/kbeame/restaurant-report-card)_
+
 - Art Quest:  
 https://artquest-seattle.firebaseapp.com/  
 _[Art Quest on GitHub](https://github.com/tanyaweaver/artquest-seattle)_
