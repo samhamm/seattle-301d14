@@ -19,9 +19,9 @@ Week 4     | Week 7 and 8 | Your Project
 
 - Slides will be placed in each class' lecture subdirectory after they are presented.
 
-## Videos
+## Lecture Videos
 
-- [YouTube Playlist Coming Soon!](about:blank)
+- A YouTube Playlist link will be Slacked out during the first week.
 
 ## Assignments
 
@@ -127,13 +127,13 @@ Linter and linter-eslint should be on that list, like in this screen shot:
  
  - Navigate within your terminal to your Projects folder (or an equivalent, familiar, and easy to access folder).
  
-1.  `mkdir 301` - this will be your parent folder to house your **fork** of the class repo.
+1.  `mkdir 301` - this will be your parent folder to house your **fork** of the class repo, as well as lab assignments, which will live separately from our lecture repository.
 2.  `cd 301`
-3.  `mkdir lectures-repo`
+3.  `mkdir lecture-repo`
 3.  `mkdir lab-assignments`
 4.  `cd lecture-repo`
 4.  While you are here on GitHub, let's fork this repository. Yes, **this** repo you are currently on! Click on the `Fork` button, and on the resulting page copy the URL link of your brand new fork.
-5.  Back in the terminal, make sure you are in the `lectures-repo` folder and `git clone THE-URL-YOU-JUST-COPIED lecture-301` (where `THE-URL-YOU-JUST-COPIED` is the URL of your forked repo you just copied. The last argument ('lecture-301') changes the display name of the repository.
+5.  Back in the terminal, make sure you are in the `lecture-repo` folder and `git clone THE-URL-YOU-JUST-COPIED lecture-301` (where `THE-URL-YOU-JUST-COPIED` is the URL of your forked repo you just copied. The last argument ('lecture-301') changes the display name of the repository folder.
 6.  After the cloning completes, `cd` into this repo.
 7.  Type `git remote add upstream https://github.com/codefellows/seattle-301d7.git` to enable quick access to future updates.
 7.  Type `git remote -v` to verify that your `origin` remote points to your GitHub account's forked 301 repo, and that your `upstream` remote points to the codefellows account.
@@ -142,7 +142,7 @@ Linter and linter-eslint should be on that list, like in this screen shot:
 10.  `mkdir partners-forked-labs`
 5.  We highly value pair programming! On days where you begin as the navigator, you will clone your **partner's** lab assignment into the `partners-forked-labs` directory when it is your turn to be the driver.
 6.  `cd my-forked-labs`
-7.  Back here on GitHub, head to the separate GitHub site where all lab assignments can be found: https://github.com/codefellows-seattle-301d7
+7.  Back here on GitHub, head to the separate GitHub site where all lab assignments can be found: https://github.com/codefellows-seattle-301d14
 8.  You may fork and clone the available repos into your `my-forked-labs` folder. These repositories will periodically be added/updated throughout the course. Therefore:
 9.  Be sure to add the `upstream` remote for each one with git:  
 https://help.github.com/articles/configuring-a-remote-for-a-fork/
