@@ -137,7 +137,7 @@ Linter and linter-eslint should be on that list, like in this screen shot:
 6.  After the cloning completes, `cd` into this repo.
 7.  Type `git remote add upstream https://github.com/codefellows/seattle-301d14.git` to enable quick access to future updates.
 7.  Type `git remote -v` to verify that your `origin` remote points to your GitHub account's forked 301 repo, and that your `upstream` remote points to the codefellows account.
-8.  `cd lab-assignments`
+8.  `cd ../../lab-assignments`
 9.  `mkdir my-forked-labs`
 10.  `mkdir partners-forked-labs`
 5.  We highly value pair programming! On days where you begin as the navigator, you will clone your **partner's** lab assignment into the `partners-forked-labs` directory when it is your turn to be the driver.
